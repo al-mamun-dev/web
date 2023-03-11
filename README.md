@@ -2,6 +2,8 @@
 
 <p>Created this paragraph in almaz branch</p>
 
+<p>Merged almaz and master</p>
+
 
 
 
